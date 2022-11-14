@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dinimustika
 - 👀 I’m interested in Software and Web Developer, Data Engineer
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Machine Learning and Frontend Engineer
 - 📫 Reach me at dinimustika.hd@gmail.com
 
 <!---
