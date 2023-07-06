@@ -29,11 +29,11 @@ I'm a passionate web developer and data engineer, constantly exploring new techn
 
 ## Technical Skills
 
-- **Programming Languages:** HTML, CSS, JavaScript, Python, Java
+- **Programming Languages:** HTML, CSS, JavaScript, Python, Java, PHP
 - **Frameworks/Libraries:** Node.js, Express.js, Laravel, CodeIgniter
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Big Data Tools:** Apache Spark, Apache Kafka
-- **Version Control:** Git, GitHub<br>
+- **Version Control:** Git, GitHub <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinimustika&layout=compact&theme=vision-friendly-dark" width="440px">
 
 ## Get in Touch
