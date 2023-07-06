@@ -10,8 +10,7 @@
   </a>
 </div><br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinimustika&theme=dark&background=000"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinimustika&layout=compact&theme=vision-friendly-dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinimustika&theme=dark&background=000"><br>  
 </div>
 
 # Hi there! 👋
@@ -34,7 +33,8 @@ I'm a passionate web developer and data engineer, constantly exploring new techn
 - **Frameworks/Libraries:** Node.js, Express.js, Laravel, CodeIgniter
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Big Data Tools:** Apache Spark, Apache Kafka
-- **Version Control:** Git, GitHub
+- **Version Control:** Git, GitHub<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinimustika&layout=compact&theme=vision-friendly-dark" width="440px">
 
 ## Get in Touch
 
