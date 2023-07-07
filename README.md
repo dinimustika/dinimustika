@@ -23,7 +23,7 @@ I'm a passionate web developer and data engineer, constantly exploring new techn
 
 ## Interests
 
-- **Web Development:** I have a strong interest in web development, with proficiency in frontend technologies like HTML, CSS, and JavaScript. I specialize in frameworks like React and Vue.js, and I'm always excited to learn new libraries and tools to enhance user experiences.
+- **Web Development:** I have a strong interest in web development, with proficiency in frontend technologies like HTML, PHP, CSS, and JavaScript. I specialize in frameworks like React and Node.js, and I'm always excited to learn new libraries and tools to enhance user experiences.
 
 - **Data Engineering:** I'm fascinated by the world of data and its transformative potential. I'm experienced in working with databases, data pipelines, and ETL processes. I'm proficient in SQL, Python, and tools like Apache Spark and Apache Kafka.
 
